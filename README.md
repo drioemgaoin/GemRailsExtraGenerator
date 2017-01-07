@@ -1,8 +1,8 @@
 # Gem::Continuous::Integration::Generator
-Short description and motivation.
+TODO: Short description and motivation.
 
 ## Usage
-How to use my plugin.
+TODO: How to use my plugin.
 
 ## Installation
 Add this line to your application's Gemfile:
