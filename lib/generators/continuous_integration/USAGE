@@ -1,0 +1,11 @@
+Description:
+    Generate the configuration file of your continuous integration service.
+
+    The available ones are
+    - travis
+
+Example:
+    rails generate continuous_integration travis
+
+    This will create:
+        .travis.yml
