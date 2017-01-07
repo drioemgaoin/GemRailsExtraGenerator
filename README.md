@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/drioemgaoin/GemRailsExtraGenerator.svg?branch=master)](https://travis-ci.org/drioemgaoin/GemRailsExtraGenerator)
+
 # Gem::Continuous::Integration::Generator
 TODO: Short description and motivation.
 
